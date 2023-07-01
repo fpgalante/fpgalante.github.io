@@ -1,0 +1,72 @@
+body {
+    background-image: url(thunderlights.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+p {
+    color: blue;
+}
+
+h1,h2,h3 {
+    color: white;
+}
+
+.container {
+    margin-top: 50px;
+    font-family: 'Martian Mono', monospace;
+}
+
+.sobremim {
+    margin-bottom: 20px;
+}
+
+.formacao {
+    margin-bottom: 20px;
+}
+
+.gostos {
+    margin-bottom: 50px;
+}
+
+.hobbies {
+    margin-bottom: 50px;
+}
+
+.pets {
+    margin-bottom: 50px;
+}
+
+.social {
+    margin-bottom: 0px;
+}
+
+.float {
+    float: left;
+    margin-right: 100px;
+}
+
+h1 {
+    letter-spacing: -1px;
+}
+
+a {
+    text-decoration: none;
+    color: red;
+}
+
+.imagens {
+    text-align: center;
+}
+
+.minhafoto {
+    margin-bottom: 170px;
+}
+
+.premen {
+    margin-bottom: 460px;
+}
+
+.fotobob {
+    margin-bottom: 30px;
+}
